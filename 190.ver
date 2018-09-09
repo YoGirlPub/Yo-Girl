@@ -1,0 +1,9 @@
+{
+  "update": "Yes",
+  "new_version": "1.9.1",
+  "apk_file_url": "https://raw.githubusercontent.com/YoGirlPub/Yo-Girl/master/apk/Yo-Girl_1.9.1.apk",
+  "update_log": "1，添加直播功能。\r\n2，添加影视资源观看。",
+  "target_size": "10M",
+  "new_md5":"b97bea014531123f94c3ba7b7afbaad2",
+  "constraint": true
+}
